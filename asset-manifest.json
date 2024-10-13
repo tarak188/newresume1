@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/newresume1/static/css/main.79b88dd5.css",
+    "main.js": "/newresume1/static/js/main.be70ca5a.js",
+    "static/js/453.422fe807.chunk.js": "/newresume1/static/js/453.422fe807.chunk.js",
+    "static/media/lol2.jpg": "/newresume1/static/media/lol2.8421e414099f31fd3e9e.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/newresume1/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/newresume1/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/newresume1/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/lol.jpeg": "/newresume1/static/media/lol.944a1c47a4b394996c16.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/newresume1/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/tarak-belhiba-CV.pdf": "/newresume1/static/media/tarak-belhiba-CV.ae2ba8cb8e26d4f2f79b.pdf",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/newresume1/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/tarak2.jpg": "/newresume1/static/media/tarak2.aabcd5c4373c043b7931.jpg",
+    "static/media/physics.png": "/newresume1/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/node-js.png": "/newresume1/static/media/node-js.e328955d6bbbf3ebc72b.png",
+    "static/media/gitlab.png": "/newresume1/static/media/gitlab.6d4cbc2644f1b09d8ac4.png",
+    "static/media/css-3.png": "/newresume1/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/typescript.png": "/newresume1/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/file.png": "/newresume1/static/media/file.86e62a06fbc37f537ff2.png",
+    "static/media/symphony.png": "/newresume1/static/media/symphony.bfd8413a2d4d27cca3c9.png",
+    "index.html": "/newresume1/index.html",
+    "main.79b88dd5.css.map": "/newresume1/static/css/main.79b88dd5.css.map",
+    "main.be70ca5a.js.map": "/newresume1/static/js/main.be70ca5a.js.map",
+    "453.422fe807.chunk.js.map": "/newresume1/static/js/453.422fe807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b88dd5.css",
+    "static/js/main.be70ca5a.js"
+  ]
+}
